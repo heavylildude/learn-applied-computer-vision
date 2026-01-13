@@ -203,14 +203,6 @@ Build a **smart security system** that:
 
 ---
 
-## 💡 Tips for Teaching Like a 10-Year-Old
-- **Use lots of analogies** (like comparing images to pizzas or computers to detectives).
-- **Show pictures and videos** (kids learn better with visuals!).
-- **Make it interactive** (let them play with code and see results instantly).
-- **Keep it fun** (use memes, emojis, and real-world examples).
-
----
-
 ## 📅 Suggested Timeline
 | Week | Lecture | Topic                                      |
 |------|---------|--------------------------------------------|
